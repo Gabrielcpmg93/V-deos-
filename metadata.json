@@ -1,0 +1,7 @@
+{
+  "name": "Social Video App",
+  "description": "A simple social media app for sharing short videos, with options to upload or generate videos using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
